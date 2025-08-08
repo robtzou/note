@@ -1,0 +1,6 @@
+a jeopardy generator
+a syllabus to study plan generator
+a date question generator
+
+collect and clean massive amounts of data
+prepare as though it is a legitimate product
