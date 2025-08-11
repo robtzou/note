@@ -1,0 +1,15 @@
+In uv you gotta:
+
+uv init <proj>
+
+uv venv <proj>
+
+source .venv/bin/activate
+
+Also:
+
+uv pip install <anything>
+
+uv sync # to install py.toml i.e. requirements.txt
+
+deactivate
